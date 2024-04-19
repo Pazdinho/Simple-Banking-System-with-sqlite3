@@ -1,4 +1,4 @@
-# Simple-Banking-System-with-sqlite3
+# Simple Banking System with sqlite3
 
 This is the *Simple Baking System with sqlite3* project I made myself.
 
