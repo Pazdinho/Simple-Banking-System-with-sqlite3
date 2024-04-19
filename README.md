@@ -6,4 +6,4 @@ This is the *Simple Baking System with sqlite3* project I made myself.
 
 Here's the link to the project: https://hyperskill.org/projects/109?track=30
 
-<p><b>Learning outcomes:</b> Database managing with sqlite library available in Python</p>
+<p><b>Learning outcomes:</b> Database managing with sqlite3 library available in Python</p>
